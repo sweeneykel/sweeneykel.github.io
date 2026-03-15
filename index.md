@@ -14,7 +14,7 @@ Electrical Engineer
 
 \## Projects
 
-\[View](projects/project-one)
+\[View](./projects/project-one.md)
 
-\[Project Two](projects/project-two)
+\[Project Two](./projects/project-two.md)
 
