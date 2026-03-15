@@ -14,7 +14,7 @@ Electrical Engineer
 
 \## Projects
 
-\[View Project One](projects/project-one)
+\[View Project One](/projects/project-one)
 
-\[View Project Two](projects/project-two)
+\[View Project Two](/projects/project-two)
 
