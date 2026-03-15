@@ -2,4 +2,4 @@ title: Kelsey Sweeney
 description: Electrical Engineering Portfolio
 url: https://sweeneykel.github.io
 baseurl: ""
-theme: minima
+theme: theme: jekyll-theme-minimal
