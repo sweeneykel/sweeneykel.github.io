@@ -1,5 +1,7 @@
 \# Kelsey Sweeney
 
+This is the actual home page of the portfolio
+
 
 
 Electrical Engineer
