@@ -1,10 +1,9 @@
-This is the actual home page of the portfolio
-
 
 Electrical Engineer
+## Education
 
 
-## Areas of Interest
+## Areas of Interest, Career Statement
 
 
 
@@ -14,3 +13,11 @@ Electrical Engineer
 
 [Project Two](./projects/project-two.md)
 
+
+## Coursework
+
+
+
+## Reading
+
+This is the actual home page of the portfolio
