@@ -1,6 +1,0 @@
-#Project One
-
-
-
-## Important Details
-

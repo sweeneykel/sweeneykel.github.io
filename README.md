@@ -1,5 +1,3 @@
 ## Kelsey Sweeney
 
-
-for the repo
-
+This is my portfolio webpage. 
