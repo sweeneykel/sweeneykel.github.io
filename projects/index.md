@@ -1,5 +1,5 @@
 # Projects
 
 ## AC Window Covering
-Brief one-sentence description.
+CAD, design, and 3-D printing project
 [Read more](ac-window/)
