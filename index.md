@@ -12,7 +12,6 @@ I am a Master's student at Boston University studying Electrical Engineering.
 - [AC Window Covering](projects/ac-window/) : CAD, design, 3-D printing
 
 - [All Projects](projects/index.md)
-- [All Writing](writing/index.md)
 
 ## About
 
