@@ -8,7 +8,7 @@ permalink: /projects/ac-window/
 # AC Window Design
 
 ## Problem
-1. Better insulation than the standard accordian wings that most window AC units come with
+1. Better insulation than the standard accordian wings most window AC units come with
 2. Removable so that when it is nice out I can get fresh air in my room
 
 ## Tools used
