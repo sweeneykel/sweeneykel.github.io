@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Your Name
+# Kelsey Sweeney
 
 I am a Master's student at Boston University studying Electrical Engineering.
 
