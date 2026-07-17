@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<article class="project">
+  <header class="project-header">
+    <h1>{{ page.title }}</h1>
+
+    {% if page.summary %}
+      <p class="project-summary">{{ page.summary }}</p>
+    {% endif %}
+
+    <dl class="project-meta">
+      {% if page.status %}
+        <dt>Status</dt>
+        <dd>{{ page.status }}</dd>
+      {% endif %}
+
+      {% if page.tools %}
+        <dt>Tools</dt>
+        <dd>{{ page.tools | join: ", " }}</dd>
+      {% endif %}
+
+      {% if page.skills %}
+        <dt>Skills</dt>
+        <dd>{{ page.skills | join: ", " }}</dd>
+      {% endif %}
+    </dl>
+
+    {% if page.project_links %}
+      <div class="project-links">
+        {% for link in page.project_links %}
+          {% if link.url %}
+            <a href="{{ link.url }}">{{ link.label }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+
+  {% if page.hero_image %}
+    <img class="project-hero" src="{{ page.hero_image | relative_url }}" alt="">
+  {% endif %}
+
+  <div class="project-content">
+    {{ content }}
+  </div>
+</article>

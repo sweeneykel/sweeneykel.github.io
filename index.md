@@ -11,8 +11,6 @@ I am a Master's student at Boston University studying Electrical Engineering.
 
 - [AC Window Covering](projects/ac-window/) : CAD, design, 3-D printing
 
-- [All Projects](projects/index.md)
-
 ## About
 
 I am a student through the Late Entry Accelerated Program at Boston University. My background is in healthcare and biology.
