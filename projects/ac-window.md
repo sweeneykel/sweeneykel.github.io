@@ -1,8 +1,20 @@
 
 ---
 layout: project
-title: AC Window
+title: Insulated & Operable Covering for AC Window Unit
 permalink: /projects/ac-window/
+summary: Insulted window covering for a window AC unit.
+status: In progress
+tools:
+  - Onshape
+  - 3-D Printing
+  - CAD prototyping
+skills:
+  - Design tradeoffs
+hero_image:
+project_links:
+  - label: CAD Model
+    url:
 ---
 
 # AC Window Design
@@ -11,18 +23,17 @@ permalink: /projects/ac-window/
 1. Better insulation than the standard accordian wings most window AC units come with
 2. Removable so that when it is nice out I can get fresh air in my room
 
-## Tools used
-Onshape, and need to list others
+## Constraints
+What limits shaped the design? 
 
-## Design
+## Process
 Sketches
-Design Tradeoffs
-CAD
-Prototype and Feedback
-Final Result
+Design Decisions and Tradeoffs
+Prototyping
 
-## Tradeoffs, Bugs, What I learned and Next Steps
+## Results
 
-## Results / evidence
+## What I learned
 
-### Links / repo / demo
+## Next Steps
+What would you improve with more time?
