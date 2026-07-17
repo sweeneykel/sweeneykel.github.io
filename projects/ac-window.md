@@ -1,4 +1,3 @@
-
 ---
 layout: project
 title: Insulated & Operable Covering for AC Window Unit
