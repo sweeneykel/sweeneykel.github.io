@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Kelsey Sweeney
-
 I am a Master's student at Boston University studying Electrical Engineering.
 
 ## Projects
