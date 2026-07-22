@@ -1,35 +1,35 @@
 ---
 layout: project
-title: 
+title: Design of Experiments (DOE)
 permalink: /projects/design-of-experiments/
-summary: 
-status:
+summary: Under guidance of a BU alumna, worked through an example DOE in Minitab
+status: Complete
 tools:
-  - Tool 1
-  - Tool 2
+  - Minitab
 skills:
-  - Skill 1
+  - Statistics
 hero_image:
 project_links:
   - label: 
     url:
 ---
 
-# Title Of Project
+### Design of Experiments
 
-## Problem
+#### Resources
 
-## Constraints
-What limits shaped the design? 
+[Teaching Experimental Design Technique to Industrial Engineers](https://blog.minitab.com/en/blog/learning-design-of-experiments-with-paper-helicopters-and-minitab)
 
-## Process
-Sketches
-Design Decisions and Tradeoffs
-Prototyping
+#### Process
 
-## Results
+Using a paper helicopter as an example, I worked through a Design of Experiments tutorial. This involved identifying factors that could potentially (but weren't for certain known to)
+affect some goal outcome. In this case the factors included short wing span, long wing span, heavy paper and light paper among others and the goal outcome was flight time. Then Minitab 
+generates a certain number of trails in which factors are varied. The goal of a DOE is to provide support for specific design choices.
 
-## What I learned
+#### Results
 
-## Next Steps
-What would you improve with more time?
+
+#### What I learned
+
+
+#### Next Steps

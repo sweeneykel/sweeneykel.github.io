@@ -4,28 +4,33 @@ layout: default
 
 <article class="project">
   <header class="project-header">
-    <h1>{{ page.title }}</h1>
+    <h2>{{ page.title }}</h2>
 
     {% if page.summary %}
       <p class="project-summary">{{ page.summary }}</p>
     {% endif %}
 
-    <dl class="project-meta">
-      {% if page.status %}
-        <dt>Status</dt>
-        <dd>{{ page.status }}</dd>
-      {% endif %}
+{% if page.status or page.tools or page.skills %}
+  <div class="project-meta">
+    {% if page.status %}
+      <p class="project-status">
+        <span>Status:</span> {{ page.status }}
+      </p>
+    {% endif %}
 
-      {% if page.tools %}
-        <dt>Tools</dt>
-        <dd>{{ page.tools | join: ", " }}</dd>
-      {% endif %}
+    {% if page.tools %}
+      <p>
+        <span>Tools:</span> {{ page.tools | join: ", " }}
+      </p>
+    {% endif %}
 
-      {% if page.skills %}
-        <dt>Skills</dt>
-        <dd>{{ page.skills | join: ", " }}</dd>
-      {% endif %}
-    </dl>
+    {% if page.skills %}
+      <p>
+        <span>Skills:</span> {{ page.skills | join: ", " }}
+      </p>
+    {% endif %}
+  </div>
+{% endif %}
 
     {% if page.project_links %}
       <div class="project-links">

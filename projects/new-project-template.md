@@ -15,21 +15,21 @@ project_links:
     url:
 ---
 
-# Title Of Project
+### Title Of Project
 
-## Problem
+#### Problem
 
-## Constraints
+#### Constraints
 What limits shaped the design? 
 
-## Process
+#### Process
 Sketches
 Design Decisions and Tradeoffs
 Prototyping
 
-## Results
+#### Results
 
-## What I learned
+#### What I learned
 
-## Next Steps
+#### Next Steps
 What would you improve with more time?

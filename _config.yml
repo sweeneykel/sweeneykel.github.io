@@ -1,8 +1,9 @@
 title: Kelsey Sweeney
-description: Electrical Engineering master's student portfolio
+description: Electrical Engineering Master's Student portfolio
 theme: minima
 header_pages:
   - index.md
   - projects/index.md
+  - coursework/index.md
   - resume.md
   - contact.md

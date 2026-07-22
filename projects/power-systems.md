@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 
+title: Power Systems
 permalink: /projects/new-project-template/
 summary: 
 status:

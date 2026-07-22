@@ -1,0 +1,104 @@
+---
+---
+
+@import "minima";
+
+.site-header .site-title {
+  font-family: "Aptos", "Segoe UI", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+body,
+.site-nav,
+.page-content,
+.post-content,
+.post-title,
+.post-link {
+  font-family: "Aptos", "Segoe UI", Arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Aptos", "Segoe UI", Arial, sans-serif;
+  font-weight: 650;
+}
+
+.project-header {
+  margin-bottom: 2rem;
+}
+
+.project-summary {
+  font-size: 1.05rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.project-meta {
+  margin: 1rem 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e5e5e5;
+}
+
+.project-meta p {
+  margin: 0.25rem 0;
+}
+
+.project-meta span {
+  font-weight: 650;
+  color: #222;
+}
+
+.coursework-section {
+  padding: 4rem 1.5rem;
+}
+
+.coursework-header {
+  max-width: 720px;
+  margin-bottom: 2rem;
+}
+
+.coursework-header h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.coursework-header p {
+  color: #666;
+  line-height: 1.6;
+}
+
+.coursework-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+}
+
+.course-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.25rem;
+  background: #fff;
+}
+
+.course-card h3 {
+  margin: 0 0 1rem;
+  font-size: 1.1rem;
+}
+
+.course-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.course-tags span {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0.4rem 0.7rem;
+  background: #f3f4f6;
+  color: #374151;
+  font-size: 0.9rem;
+  line-height: 1;
+  white-space: nowrap;
+}
