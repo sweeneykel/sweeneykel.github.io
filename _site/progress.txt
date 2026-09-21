@@ -1,0 +1,6 @@
+it is published
+to view changes
+bundle exec jekyll serve
+
+then go to
+http://localhost:4000/projects/

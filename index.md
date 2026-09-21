@@ -10,13 +10,16 @@ Add some reasons why someone would want to hire me and what I am looking for spe
 
 ### Projects and Skills
 
-- Control and Modeling of Large Scale Systems
+- Control and Modeling of Large Scale Systems Independent Project
 - [AC Window Covering](projects/ac-window/) : CAD, design, 3-D printing
 - [Design of Experiments](projects/design-of-experiments.md) : Design of Experiments, Minitab
-- Optimization with Gurobi : 
-- Optimization with 
-- Lawnmowing Robot : Systems Engineering
-- 
+- Network Flow with Gurobi EC524
+- Optimization of Renewable Energy EC500 
+- Pub Sub
+- ML with guardrails
+- Electronic Records at SCC
+- Literature Review EK505
+- House Projects
 
 ### Education
 

@@ -82,7 +82,7 @@ The 3-D printer had a limited size print bed and so I needed to find a way to pa
 [Add CAD drawings (image)]()
 
 #### What I learned
-This was my first experience learning CAD (onshape) and thinking about how to implement a product into a design that could be 3D printed. 
+A prototype doesn't need to be perfect
 
 #### Next Steps. What I would improve with more time.
 Aesthetically, if this were a product that I'd want to sell, I would think more about the appearance and how I could reduce the material used while maintaining functionality but still creating a product that someone wouldn't mind in their home. 

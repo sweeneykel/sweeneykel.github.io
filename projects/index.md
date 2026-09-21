@@ -35,5 +35,18 @@ title: Projects
     </figcaption>
   </figure>
 
+  <figure style="margin: 0;">
+    <a href="/projects/optimization/">
+    <img
+      src="/assets/images/optimization-project-images/ChatGPT%20Image%20Sep%2020%2C%202026%2C%2006_48_28%20PM.png"
+      alt="Optimization project"
+      style="width: 100%; display: block;"
+    >
+    </a>
+    <figcaption style="font-size: 0.9rem; color: #666; text-align: center;">
+      Optimization
+    </figcaption>
+  </figure>
+
 </div>
 
