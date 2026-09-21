@@ -48,5 +48,18 @@ title: Projects
     </figcaption>
   </figure>
 
+  <figure style="margin: 0;">
+    <a href="/projects/independent-study/">
+    <img
+      src="/assets/images/independent-study-images/tile_independent_study.png"
+      alt="Renewable energy sources connected to an electrical grid"
+      style="width: 100%; display: block;"
+    >
+    </a>
+    <figcaption style="font-size: 0.9rem; color: #666; text-align: center;">
+      Independent Study: Stability of Renewable Energy Grids
+    </figcaption>
+  </figure>
+
 </div>
 
