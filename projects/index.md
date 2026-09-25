@@ -61,5 +61,18 @@ title: Projects
     </figcaption>
   </figure>
 
+  <figure style="margin: 0;">
+    <a href="/projects/robot/">
+    <img
+      src="/assets/images/robot-images/prototype_1.jpeg"
+      alt="Autonomous robot prototype"
+      style="width: 100%; display: block;"
+    >
+    </a>
+    <figcaption style="font-size: 0.9rem; color: #666; text-align: center;">
+      Autonomous Robot
+    </figcaption>
+  </figure>
+
 </div>
 

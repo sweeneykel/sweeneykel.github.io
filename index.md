@@ -10,16 +10,18 @@ Add some reasons why someone would want to hire me and what I am looking for spe
 
 ### Projects and Skills
 
-- Control and Modeling of Large Scale Systems Independent Project
+- [Control and Modeling of Large Scale Systems Independent Project](projects/independent-study.md): simulation, test building
 - [AC Window Covering](projects/ac-window/) : CAD, design, 3-D printing
 - [Design of Experiments](projects/design-of-experiments.md) : Design of Experiments, Minitab
-- Network Flow with Gurobi EC524
-- Optimization of Renewable Energy EC500 
+- [Coverage Path Planning Robot](projects/robot.md)
+- Optimization of Renewable Energy EC500 : Formulation of cost function and constraints using SciPy Optimization, 
 - Pub Sub
 - ML with guardrails
 - Electronic Records at SCC
-- Literature Review EK505
 - House Projects
+- [Optimization of a Network](projects/optimization.md)
+- Literature Review EK505
+- GNNs
 
 ### Education
 
@@ -27,14 +29,21 @@ Master of Science in Electrical and Computer Engineering : Boston University : S
 
 Bachelor of Science in Biology with Healthcare Emphasis & Spanish Language : University of Wisconsin-Oshkosh : Sept 2009 - May 2013
 
-### Leadership and Community Involvement
+### Leadership and Involvement
 Student Ambassador : Boston University Electrical Engineering Dept
+
+Member: Boston University Robotics 
+
 Tutor : Tutoring Plus Cambridge
+
 Member & Race Committee : Cambridge Running Club
 
 ### Interests
 
 Running
+
 Home Remodeling Projects
+
 Russian History
+
 Dirt Bikes
